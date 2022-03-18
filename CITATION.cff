@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+- family-names: "Amini"
+  given-names: "Fatemeh"
+title: "L-shaped Selection Algorithm for Multi-trait Genomic Selection"
+version: 1.0
+date-released: 2022-03-02
+url: "github.com/amini-ISU/Multi-trait-GS.git"
